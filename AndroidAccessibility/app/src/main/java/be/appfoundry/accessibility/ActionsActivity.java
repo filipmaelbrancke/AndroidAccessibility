@@ -25,7 +25,7 @@ public class ActionsActivity extends AppCompatActivity {
         }
 
         @Override
-        public void onMatchReaction(Match match) {
+        public void onMatchComment(Match match) {
             showToast("match reaction");
         }
 

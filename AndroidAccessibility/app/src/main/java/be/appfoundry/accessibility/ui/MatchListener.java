@@ -9,7 +9,7 @@ public interface MatchListener {
 
     void onMatchClicked(Match match);
 
-    void onMatchReaction(Match match);
+    void onMatchComment(Match match);
 
     void onMatchShare(Match match);
 

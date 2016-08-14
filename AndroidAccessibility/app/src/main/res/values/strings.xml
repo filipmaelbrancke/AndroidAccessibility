@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Accessibility</string>
     <string name="social_list_title">Your favorites</string>
+    <string name="custom_actions_title">Custom actions</string>
 </resources>
