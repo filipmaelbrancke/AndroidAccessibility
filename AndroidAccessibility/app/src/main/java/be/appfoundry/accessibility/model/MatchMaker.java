@@ -65,14 +65,4 @@ public class MatchMaker {
         return dummyMatch;
     }
 
-    // real madrid : http://images.vrt.be/orig/contentapi/infostrada/team/4103.png
-    // liverpool: http://images.vrt.be/orig/contentapi/infostrada/team/4075.png
-
-    // Everton : http://images.vrt.be/orig/contentapi/infostrada/team/4047.png
-    // Arsenal: http://images.vrt.be/orig/contentapi/infostrada/team/4007.png
-    // Chelsea : http://images.vrt.be/orig/contentapi/infostrada/team/4034.png
-    // Barcelona : http://images.vrt.be/orig/contentapi/infostrada/team/4014.png
-    // Real Madrid : http://images.vrt.be/orig/contentapi/infostrada/team/4103.png
-    // Juventus : http://images.vrt.be/orig/contentapi/infostrada/team/4067.png
-
 }
